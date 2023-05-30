@@ -1,0 +1,18 @@
+.table {
+    color:#4dd9ff;
+    background-color: #1c3341;
+    border: 1px solid #4dd9ff;
+
+}
+
+h2 {
+    background-color: #1c3341;
+font-size: 3rem;
+    text-align: center;
+    color: #4dd9ff;
+}
+tbody, td, tfoot, th, thead, tr  {
+    border-color: inherit;
+    border-style: solid;
+     border-width: 2px; 
+}

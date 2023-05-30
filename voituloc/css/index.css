@@ -1,0 +1,13 @@
+html{
+    margin: top 0px;;
+}
+
+ body{
+    background-image: url('/images/back.png');
+
+} 
+.navbar{
+    background-color: #1c3341;
+}
+
+.bg-body-tertiary {background-color:#1c3341 ;}
